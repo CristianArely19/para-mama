@@ -1,0 +1,70 @@
+/* General */
+*{
+    box-sizing: border-box;
+}
+/* Fondo de la pagina */
+body{
+    background-color: #c2bbf0;
+}
+
+/* Hola Mamá */
+h1{
+    color: #d26ba0;
+    font-size: 70px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: center;
+}
+/* Feliz Dia de las Madres */
+h2{
+    color: darkmagenta;
+    font-size: 60px;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+}
+/* Texto1... puede que.. */
+.Text1{
+    color: rgb(68, 37, 106);
+    font-size: 50px;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+}
+
+.img-container{
+    text-align: center;
+}
+/* Gracias...*/
+.Text2{
+    color: rgb(68, 37, 106);
+    font-size: 50px;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+}
+/* Video */
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+video{
+    border: 5px solid slateblue;
+    border-radius: 20px; 
+
+}
+/* Agradecimiento */
+.Text3{
+    color: rgb(68, 37, 106);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Fira Sans', sans-serif;
+}
+/* Imagen 2 */
+.img-container2{
+    text-align: center;
+}
+/* Final */
+h3{
+    color: rgb(68, 37, 106);
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Fira Sans', sans-serif;
+}
